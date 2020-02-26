@@ -1,0 +1,135 @@
+body{margin:0 auto}
+
+
+
+#wrapper{background-color:#333;
+			width:100%;
+			height:auto;}
+
+
+#header h1{background-color:#F90;
+	color:#000;
+	line-height:100px;
+	margin-top:-100px;
+	text-align:center;
+	letter-spacing:4px;
+	word-spacing:5px;
+	font-family:'Coiny', cursive;
+	font-weight:bold;
+}
+/*-----end header--------*/
+
+			
+#header1{background-image:url(../Images/bg5.jpg);
+			width:100%;
+			height:105px;}
+			
+#table{margin-left:60px;
+		font-size:18px;
+		padding-right:60px;
+		margin-top:-108px;
+		padding-top:30px;
+		font-family:'Coiny', cursive;}	
+				
+		
+a:hover{
+	background: #FF3;
+	color: #000;
+	padding: 20px;
+	border: 5px solid #000;
+	/* [disabled]width:20%; */
+}	
+
+a{text-decoration:none;
+color:#000;}		
+			
+#logo{;
+		height:105px;
+		width:12%;
+		margin-right:20px;}			
+		
+#section{background-image:url(../Images/Menu%20img/bg4.jpg);
+			width:100%;
+			height:2280px;}
+			
+
+.nav1{background-image:url(../Menu%20img/bg4.jpg);
+			width:100%;
+			height:900px;
+			background-attachment:fixed;}	
+			
+
+#maindiv{	background-image:url(../Images/Pizza_Burgers/Pizza-capricciosa.jpg);
+			width: 70%;
+			height: 530px;
+			position: absolute;
+			margin-left: 50%;
+			margin-top: 21%;
+			transform: translate(-50%,-50%);
+			background-size: 100% 100%;
+			box-shadow: -1px -1px 40px 25px black;
+			animation: slider 15s infinite linear;
+			border-radius:40px;}
+
+#nav2{background-color:#CCC;
+			width:98%;
+			height:80px;
+			padding:12px;
+			text-align:center;
+			line-height:50px;
+			font-family:'Coiny', cursive;}
+			
+#nav2:hover{
+	background: #F93;
+	/* [disabled]color:#000; */
+	padding: 0px;
+	border: 5px solid #000;
+	width: 20%;
+}						
+
+#boxx{background-image:url(../Images/bg5.jpg);
+height:1280px;}
+
+.box{	background-image:;
+		width:30%;
+		height:270px;
+		margin-top:40px;
+		float:left;
+		box-shadow: -1px -1px 20px 15px black;
+		border-radius:40px;
+		background-size:cover;}
+
+.box1{background-image:url(../Images/Pizza_Burgers/Pizza01.jpg);
+margin-left:240px;}
+
+.box2{ background-image:url(../Images/Pizza_Burgers/pizza35.jpg);
+margin-left:25px;}
+
+.box3{ background-image:url(../Images/Pizza_Burgers/c700x420.jpg);
+margin-left:240px;}
+
+.box4{background-image:url(../Images/Pizza_Burgers/pizza.jpg);
+margin-left:25px;}
+		
+.box5{background-image:url(../Images/Pizza_Burgers/2-ingredient-pizza-dough-weight-watchers-9.jpg);
+margin-left:240px;}
+
+.box6{background-image:url(../Images/Pizza_Burgers/Chicken-Pizza_exps30800_FM143298B03_11_8bC_RMS-2.jpg);
+margin-left:25px;}
+		
+.box7{background-image:url(../Images/Pizza_Burgers/pizza-closeup.jpg);
+margin-left:240px;}
+
+.box8{background-image:url(../Images/Pizza_Burgers/pizza-stock.jpg);
+margin-left:25px;		
+float:left;}		
+
+			
+#footer{ color:#FFF;
+			width:100%;
+			height:60px;
+			margin-top:-10px;
+			padding-top:5px;
+			clear:both;}						
+			
+			

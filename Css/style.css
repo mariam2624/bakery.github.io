@@ -1,0 +1,138 @@
+body{margin:0 auto}
+
+
+
+#wrapper{background-color:#333;
+			width:100%;
+			height:auto;}
+
+
+#header h1{background-color:#F90;
+	color:#000;
+	line-height:100px;
+	margin-top:-100px;
+	text-align:center;
+	letter-spacing:4px;
+	word-spacing:5px;
+	font-family:'Coiny', cursive;
+	font-weight:bold;
+}
+/*-----end header--------*/
+
+			
+#header1{background-image:url(../Images/bg5.jpg);
+			width:100%;
+			height:105px;}
+			
+#table{margin-left:60px;
+		font-size:18px;
+		padding-right:60px;
+		margin-top:-108px;
+		padding-top:30px;
+		font-family:'Coiny', cursive;}	
+				
+		
+a:hover{
+	background: #FF3;
+	color: #000;
+	padding: 20px;
+	border: 5px solid #000;
+	/* [disabled]width:20%; */
+}	
+
+a{text-decoration:none;
+color:#000;}		
+			
+#logo{;
+		height:105px;
+		width:12%;
+		margin-right:20px;}			
+		
+#section{background-image:url(../Images/Menu%20img/bg4.jpg);
+			width:100%;
+			height:2230px;}
+			
+
+.nav1{background-image:url(../Menu%20img/bg4.jpg);
+			width:100%;
+			height:900px;
+			background-attachment:fixed;}	
+			
+
+#maindiv{
+			width: 70%;
+			height: 530px;
+			position: absolute;
+			margin-left: 50%;
+			margin-top: 21%;
+			transform: translate(-50%,-50%);
+			background-size: 100% 100%;
+			box-shadow: -1px -1px 40px 25px black;
+			animation: slider 15s infinite linear;
+			border-radius:40px;}
+	
+	
+	
+	
+	@keyframes slider{
+			0%{background-image:url(../Images/sliderimg/bakeitems.jpg);}
+			
+			17%{background-image:url(../Images/sliderimg/bakeryerpsoftwaremin.jpg);}
+			
+			34%{background-image:url(../Images/sliderimg/carlos_bakery_le1.jpg);}
+			
+			51%{background-image:url(../Images/sliderimg/Forth-Paragraph.jpg);}
+			
+			68%{background-image:url(../Images/sliderimg/bgimage5.jpg);}
+		
+			85%{background-image:url(../Images/sliderimg/cateringgamedayparty.jpg);}
+		}
+
+#nav2{background-color:#CCC;
+			width:98%;
+			height:80px;
+			padding:12px;
+			text-align:center;
+			line-height:50px;
+			font-family:'Coiny', cursive;}
+			
+#nav2:hover{
+	background: #F93;
+	/* [disabled]color:#000; */
+	padding: 0px;
+	border: 5px solid #000;
+	width: 20%;
+}						
+
+
+.box{	background-image:url(../Images/bg5.jpg);
+		width:50%;
+		height:375px;
+		margin-top:25px;
+		float:left;
+		box-shadow: -1px -1px 20px 10px black;
+		border-radius:100px;
+		background-size:cover;}
+
+.box1{background-image:url(../Images/Shop/bakery-1437172_960_720.jpg);}
+
+.box2{ color:#FFF;}
+
+.box3{color:#FFF;}
+
+.box4{background-image:url(../Images/Shop/1360_hofers.jpg);}
+		
+.box5{background-image:url(../Images/Shop/11.jpg);}
+
+.box6{color:#FFF;
+		float:left;}		
+
+			
+#footer{ color:#FFF;
+			width:100%;
+			height:60px;
+			margin-top:-10px;
+			padding-top:5px;
+			clear:both;}						
+			
+			
